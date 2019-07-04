@@ -1,0 +1,3 @@
+[submodule "unity-working-copy/Packages/First"]
+	path = unity-working-copy/Packages/First
+	url = https://github.com/martinbolaursen/First
